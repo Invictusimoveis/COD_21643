@@ -1,0 +1,46 @@
+#: locale=pt
+
+## Media
+
+### Image
+imlevel_F69BF9BE_E226_5A12_41C8_E0A5FE87B5E5.url = media/popup_F653F413_E25A_4A11_41E9_41A2015B90A0_pt_0_0.jpg
+imlevel_F69A09BE_E226_5A12_41E5_C1C2E4869412.url = media/popup_F653F413_E25A_4A11_41E9_41A2015B90A0_pt_0_1.jpg
+imlevel_F69A19BE_E226_5A12_41E0_FDBB7E094E75.url = media/popup_F653F413_E25A_4A11_41E9_41A2015B90A0_pt_0_2.jpg
+imlevel_F69A39BE_E226_5A12_41E9_13032FAF89B5.url = media/popup_F653F413_E25A_4A11_41E9_41A2015B90A0_pt_0_3.jpg
+imlevel_F69A49BE_E226_5A12_41D1_E6E125479AB9.url = media/popup_F653F413_E25A_4A11_41E9_41A2015B90A0_pt_0_4.jpg
+
+### Popup Image
+
+### Title
+album_F447A32F_E22E_CE34_41BC_487FEABC1FE2_6.label = Academia
+panorama_E97574B1_E226_4A5F_41E1_837FF9513E7A.label = IMG_20240403_133007_00_945
+panorama_E975C0B0_E226_4A5D_41A9_54708CCAA906.label = IMG_20240403_133042_00_946
+panorama_E975D89C_E226_5A46_41D5_40988FEE3DAF.label = IMG_20240403_133147_00_948
+panorama_E97580AB_E226_4A42_41E7_7C795C79B3E2.label = IMG_20240403_133244_00_950
+panorama_E9751CA4_E226_7A45_41E4_85586A71C282.label = IMG_20240403_133304_00_951
+panorama_E97678A9_E226_7A4E_41C9_6A59199A6026.label = IMG_20240403_133339_00_952
+panorama_E973247F_E226_4AC3_41E4_7A8EA715A108.label = IMG_20240403_133413_00_953
+album_F447A32F_E22E_CE34_41BC_487FEABC1FE2_3.label = Piscina
+album_F447A32F_E22E_CE34_41BC_487FEABC1FE2_2.label = Piscina com elevador aessível
+album_F447A32F_E22E_CE34_41BC_487FEABC1FE2_5.label = Playground
+album_F447A32F_E22E_CE34_41BC_487FEABC1FE2_7.label = Salão de festas
+album_F447A32F_E22E_CE34_41BC_487FEABC1FE2_8.label = Salão de festas
+album_F447A32F_E22E_CE34_41BC_487FEABC1FE2_0.label = Salão de festas
+album_F447A32F_E22E_CE34_41BC_487FEABC1FE2_1.label = Vagas
+album_F447A32F_E22E_CE34_41BC_487FEABC1FE2.label = Álbum de Fotos WhatsApp Image 2024-04-03 at 14.30.28 (1)
+album_F447A32F_E22E_CE34_41BC_487FEABC1FE2_4.label = Área gourmet
+
+## Popup
+
+### Body
+htmlText_FA38AACB_E23F_DE7E_41D3_0CF0ACDF8126.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Vila Metalúrgica, Santo André/SP.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">55m² </SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Sala 2 ambientes</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Sacada gourmet com churrasqueira</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Cozinha</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Área de serviço </SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Banheiro social</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">2 dormitórios sendo 1 suíte</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">1 vaga de garagem</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Condomínio conta com academia, piscina, salão de festas, churrasqueira, playground.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Cod: 21643</SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_F545DC35_E22F_BA14_41C9_7E96843E66C0.title = Lazer
+
+## Tour
+
+### Description
+
+### Title
+tour.name = COD_21643
